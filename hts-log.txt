@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Thu, 04 Dec 2025 21:16:44 at https://www.rozenzaftlaw.com/ +*.rozenzaftlaw.com/* -ad.doubleclick.net/*
+(httrack https://www.rozenzaftlaw.com/ -O ./rozenzaftlaw +*.rozenzaftlaw.com/* -ad.doubleclick.net/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:16:51	Error: 	"Not Found" (404) at link https://www.rozenzaftlaw.com/t (from https://www.rozenzaftlaw.com/)
+21:16:51	Error: 	"Not Found" (404) at link https://www.rozenzaftlaw.com/e (from https://www.rozenzaftlaw.com/)
+21:16:51	Error: 	"Not Found" (404) at link https://www.rozenzaftlaw.com/api/ (from https://www.rozenzaftlaw.com/)
+21:16:51	Error: 	"Not Found" (404) at link https://www.rozenzaftlaw.com/envelope/ (from https://www.rozenzaftlaw.com/)
+21:16:51	Error: 	"Not Found" (404) at link https://www.rozenzaftlaw.com/feed.xml (from https://www.rozenzaftlaw.com/)
+21:16:51	Error: 	"Bad Request" (400) at link https://www.rozenzaftlaw.com/decodeURIComponent(e (from https://www.rozenzaftlaw.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 seconds : 9 links scanned, 2 files written (390925 bytes overall) [125124 bytes received at 17874 bytes/sec], 404481 bytes transferred using HTTP compression in 9 files, ratio 27%
+(6 errors, 0 warnings, 0 messages)
